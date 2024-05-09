@@ -30,7 +30,7 @@ CTRL_CLICK_TO_EXIST_INTERACTIVE_MODE = false
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "标签页管理"
+NAME = "Gerenciamento de pagina da guia"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 拖拽排序标签页的方式(1 or 2)
@@ -118,7 +118,7 @@ INTERCEPT_INTERNAL_AND_LOCAL_LINKS = true
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "全局多关键字搜索"
+NAME = "Pesquisa global de multi-keyword"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 快捷键
@@ -158,7 +158,7 @@ IGNORE_FOLDERS = [".git", "node_modules"]
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "多关键字高亮"
+NAME = "Multi-Keyword Destaque"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 快捷键
@@ -210,7 +210,7 @@ CLEAR_LIST_THRESHOLD = 12
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "类别大纲"
+NAME = "esboco da categoria"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 快捷键
@@ -239,7 +239,7 @@ table = "Table"
 # 强烈不建议置为false。有一些插件（如pluginUpdater）依赖于此插件，若置为false，那些插件都将失效
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "命令行环境"
+NAME = "Ambiente da linha de comando"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 快捷键
@@ -285,7 +285,7 @@ BUILTIN = [
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "中英文混排优化"
+NAME = "Eliminacao em chines e ingles misto"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 快捷键
@@ -304,7 +304,7 @@ LINE_BREAK_MAX_NUM = -1
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "只读模式"
+NAME = "Modo de leitura"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 进入和脱离只读模式的快捷键
@@ -324,7 +324,7 @@ SHOW_TEXT = "ReadOnly"
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "多功能搜索"
+NAME = "pesquisa multi-funcao"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 快捷键
@@ -371,7 +371,7 @@ USE_NEGATIVE_SEARCH = true
 # 是否启用插件（此插件暂时无法在低版本Typora使用）
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "模糊模式"
+NAME = "Modo do blog"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 快捷键
@@ -393,7 +393,7 @@ BLUR_LEVEL = 10
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "图片调整"
+NAME = "ajuste de imagem"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 每次操作的缩放倍率
@@ -411,7 +411,7 @@ RECORD_RESIZE = true
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "表格增强"
+NAME = "Aprimoramento da tabela"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 是否分页
@@ -439,7 +439,7 @@ REGEX = false
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "一键到顶"
+NAME = "um -clique para o topo"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 到顶的快捷键
@@ -453,7 +453,7 @@ HOTKEY_GO_BOTTOM = ""
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "思维导图"
+NAME = "mapa mental"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 若文档存在跨等级标题问题（MD001规范），尽力修复之
@@ -599,7 +599,7 @@ markmap:
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "自动编号"
+NAME = "Numero automatico"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 启用侧边栏自动编号
@@ -632,7 +632,7 @@ fence = "Fence"
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "代码块增强"
+NAME = "aprimoramento do bloco de codigo"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 
@@ -745,7 +745,7 @@ HIGHLIGHT_LINE_COLOR = "rgba(176, 178, 180, 0.4)"
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "章节折叠"
+NAME = "dobra do capitulo"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 严格模式
@@ -779,7 +779,7 @@ COLLAPSE_RECURSIVE = ""
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "列表折叠"
+NAME = "List Fold"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 缩放标志的颜色，若为空，则跟随系统配色
@@ -793,7 +793,7 @@ RECORD_COLLAPSE = true
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "文段截断"
+NAME = "Crash"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 快捷键：隐藏前面的文本段
@@ -811,7 +811,7 @@ REMAIN_LENGTH = 80
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "导出增强"
+NAME = "aprimoramento de exportacao"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 是否下载网络图片（若为true，有可能因为网络问题导致导出超时）
@@ -826,7 +826,7 @@ DOWNLOAD_THREADS = 10
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "表格调整"
+NAME = "Ajuste da tabela"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 是否去除表格单元格最小宽度限制
@@ -842,7 +842,7 @@ RECORD_RESIZE = true
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "文字风格化"
+NAME = "estilo de texto"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 面板的背景颜色。若为""，则跟随主题的配色方案
@@ -908,7 +908,7 @@ DEFAULT_COLORS = { FOREGROUND = "#330000", BACKGROUND = "#FFFFFF", BORDER = "#33
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "加密文件"
+NAME = "Arquivo criptografado"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 使用弹出提示弹窗
@@ -922,7 +922,7 @@ SHOW_HINT_MODAL = true
 # 若要修改二级插件的配置请前往同目录下的custom_plugin.user.toml
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "二级插件"
+NAME = "Plugue de dois niveis -in"
 # 是否在右键菜单中可点击
 # 若置为false，则：不影响所有二级插件的启用状态，但是无法在右键菜单中触及
 CLICKABLE = true
@@ -947,7 +947,7 @@ ALLOW_SET_CONFIG_IN_SETTINGS_TOML = true
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "斜杠命令"
+NAME = "Slip Command"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 什么样的用户输入触发显示命令列表（若您不了解正则表达式，请勿修改此配置）
@@ -1020,7 +1020,7 @@ COMMANDS = [
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "右键菜单"
+NAME = "Menu do clique certo"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 点击后是否隐藏菜单（此选项不必在此调整，可以在UI中设置）
@@ -1043,7 +1043,7 @@ FIND_LOST_PLUGIN = true
 #   NAME: 一级菜单的名称
 #   LIST: 二级菜单的插件列表（"---"：代表在页面上插入一个分隔横线）
 [[right_click_menu.MENUS]]
-NAME = "不常用插件"
+NAME = "plugue nao comum -in"
 LIST = [
     "window_tab",
     "fence_enhance",
@@ -1071,7 +1071,7 @@ LIST = [
     "test",
 ]
 [[right_click_menu.MENUS]]
-NAME = "常用插件"
+NAME = "Plug -in comum"
 LIST = [
     "commander",
     "markmap",
@@ -1092,7 +1092,7 @@ LIST = [
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "启停插件"
+NAME = "plugue de partida -in"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 # 不允许通过此插件修改启停的插件
@@ -1104,7 +1104,7 @@ IGNORE_PLUGINS = ["preferences", "right_click_menu", "custom", "json_rpc", "merm
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "文件计数"
+NAME = "contagem de arquivos"
 # 是否在右键菜单中可点击
 CLICKABLE = false
 # 当目录下的文件数量少于等于IGNORE_MIN_NUM时，忽略此目录
@@ -1132,7 +1132,7 @@ BEFORE_TEXT = ""
 # 是否启用插件
 ENABLE = true
 # 在右键菜单中展示的名称
-NAME = "帮助"
+NAME = "Ajuda"
 # 是否在右键菜单中可点击
 CLICKABLE = true
 
@@ -1143,7 +1143,7 @@ CLICKABLE = true
 # 警告：开启此插件后，外部将拥有node、browser两套环境，能完全控制电脑，因此如果您不是开发人员，请勿开启此插件
 ENABLE = false
 # 在右键菜单中展示的名称
-NAME = "外部操纵Typora"
+NAME = "manipulacao externa do Typora"
 # 是否在右键菜单中可点击
 CLICKABLE = false
 # rpc server选项
@@ -1156,7 +1156,7 @@ SERVER_OPTIONS = { port = 5080, host = "127.0.0.1", path = "/", strict = false }
 # 此插件目前已经处于半废弃状态，请勿开启
 ENABLE = false
 # 在右键菜单中展示的名称
-NAME = "mermaid组件替换"
+NAME = "Substituicao de componentes da mermaid"
 # 是否在右键菜单中可点击
 CLICKABLE = false
 
@@ -1167,6 +1167,6 @@ CLICKABLE = false
 # 此插件乃开发者于开发阶段使用，请勿开启
 ENABLE = false
 # 在右键菜单中展示的名称
-NAME = "测试专用"
+NAME = "teste para"
 # 是否在右键菜单中可点击
 CLICKABLE = false
